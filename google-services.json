@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "377200671729",
+    "project_id": "testnotfapp",
+    "storage_bucket": "testnotfapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377200671729:android:9e35fc7d00e1431739a250",
+        "android_client_info": {
+          "package_name": "com.mwiseneza.notifapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377200671729-01mg1daph1u7580d5r6kfl5i0o7l4ke5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mwiseneza.notifapplication",
+            "certificate_hash": "4d507cfc2a1b2bb5b171fe2b67207f21ea9af1d3"
+          }
+        },
+        {
+          "client_id": "377200671729-13cm4r3mupep3n443r36rfbjnfk54rqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mwiseneza.notifapplication",
+            "certificate_hash": "c663fb4209d2fe5d18560a315fe94b0430ffe74a"
+          }
+        },
+        {
+          "client_id": "377200671729-b7nfu9v4os9of7j7v78km3bcaudvrb4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzPBctJ61Bi_zTL2f7Fv_ypxX3Vce5B7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377200671729-b7nfu9v4os9of7j7v78km3bcaudvrb4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
